@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^21.4.0"
+    "@hapi/hapi": "^21.4.0",
+    "bcrypt": "^6.0.0",
+    "mongodb": "^6.16.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
